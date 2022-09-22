@@ -10134,24 +10134,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Amerike\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Rojo15\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amerike\\Documents\\Dino\\Web\\IAP_Dino\\Diana_api\\API_DianaRG\\API_DianaRG\\API_DianaRG.csproj",
+      "projectUniqueName": "C:\\Users\\Rojo15\\Documents\\Unity Projects\\DINO\\WEB\\IAP_Dino\\Diana_api\\API_DianaRG\\API_DianaRG\\API_DianaRG.csproj",
       "projectName": "API_DianaRG",
-      "projectPath": "C:\\Users\\Amerike\\Documents\\Dino\\Web\\IAP_Dino\\Diana_api\\API_DianaRG\\API_DianaRG\\API_DianaRG.csproj",
-      "packagesPath": "C:\\Users\\Amerike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amerike\\Documents\\Dino\\Web\\IAP_Dino\\Diana_api\\API_DianaRG\\API_DianaRG\\obj\\",
+      "projectPath": "C:\\Users\\Rojo15\\Documents\\Unity Projects\\DINO\\WEB\\IAP_Dino\\Diana_api\\API_DianaRG\\API_DianaRG\\API_DianaRG.csproj",
+      "packagesPath": "C:\\Users\\Rojo15\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Rojo15\\Documents\\Unity Projects\\DINO\\WEB\\IAP_Dino\\Diana_api\\API_DianaRG\\API_DianaRG\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Amerike\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Rojo15\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
