@@ -8,9 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<TodoContext>(opt =>
-    opt.UseInMemoryDatabase("TodoList"));
+// builder.Services.AddDbContext<TodoContext>(opt =>
+    // opt.UseInMemoryDatabase("TodoList"));
 
+var connectionString = builder.Configuration.GetConnectionString("Pizzas") ?? "Data Source=Dino.db";
+builder.Services.AddSqlite<TodoContext>(connectionString);
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
